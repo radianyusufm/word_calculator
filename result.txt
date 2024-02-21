@@ -1,0 +1,447 @@
+https://en.wikipedia.org/wiki/algorithm#computer_algorithms
+
+"algorithms": 1
+redirects: 1
+.: 3
+for: 2
+subfield: 1
+science,: 3
+analysis: 1
+algorithms.: 1
+,: 4
+algorithm: 8
+(disambiguation).
+in: 1
+mathematics: 6
+(/ˈælɡərɪðəm/: 1
+): 1
+finite: 2
+sequence: 1
+rigorous: 1
+instructions,: 1
+typically: 1
+solve: 2
+class: 1
+specific: 1
+problems: 2
+perform: 1
+computation.[1]: 1
+algorithms: 4
+specifications: 1
+performing: 1
+calculations: 1
+data: 1
+processing.: 1
+more: 1
+advanced: 1
+conditionals: 1
+divert: 1
+code: 1
+execution: 1
+routes: 1
+(referred: 2
+automated: 2
+decision-making): 1
+deduce: 1
+valid: 1
+inferences: 1
+reasoning),: 1
+achieving: 1
+automation: 1
+eventually.: 1
+using: 1
+human: 1
+characteristics: 1
+descriptors: 1
+machines: 2
+metaphorical: 1
+ways: 1
+practiced: 1
+alan: 2
+turing: 2
+terms: 2
+"memory",: 1
+"search": 1
+"stimulus".[2]
+
+in: 1
+contrast,: 1
+heuristic: 1
+approach: 1
+problem: 2
+solving: 2
+fully: 1
+guarantee: 1
+correct: 2
+optimal: 2
+domains: 1
+-defined: 3
+result.[3]
+
+as: 1
+effective: 1
+method,: 1
+expressed: 1
+space: 1
+time[4]: 1
+formal: 1
+language[5]: 1
+calculating: 2
+function.[6]: 1
+starting: 1
+initial: 2
+input: 1
+(: 7
+),[7]: 1
+instructions: 1
+computation: 1
+executed,: 1
+proceeds: 1
+finite[8]: 1
+number: 2
+successive: 1
+eventually: 1
+producing: 1
+"output"[9]: 1
+terminating: 1
+final: 1
+the: 4
+transition: 1
+deterministic;: 1
+algorithms,: 2
+randomized: 1
+incorporate: 1
+random: 1
+input.[10]
+
+history
+ancient: 1
+algorithms
+since: 1
+antiquity,: 1
+step--step: 1
+procedures: 1
+mathematical: 1
+attested.: 1
+this: 1
+includes: 1
+babylonian: 1
+2500: 1
+bc),[11]: 2
+egyptian: 1
+1550: 1
+indian: 5
+800: 1
+bc: 1
+;: 3
+..: 3
+shulba: 1
+sutras,: 1
+kerala: 1
+school,: 1
+brāhmasphuṭasiddhānta),[12][13]: 1
+ifa: 1
+oracle: 1
+500: 1
+bc),: 1
+greek: 2
+240: 1
+bc,: 1
+sieve: 1
+eratosthenes: 1
+euclidean: 1
+algorithm),[14]: 1
+arabic: 2
+(9th: 1
+century,: 3
+cryptographic: 1
+code-breaking: 1
+based: 1
+frequency: 1
+analysis).[15]
+
+al-khwarizmi: 1
+term: 2
+algorithm
+around: 1
+825,: 1
+muhammad: 1
+ibn: 1
+musa: 1
+al-khwarizmi: 2
+wrote: 1
+kitāb: 1
+al-ḥisāb: 2
+al-hindī: 2
+("book: 1
+computation"): 1
+kitab: 1
+al-jam': 1
+wa'-tafriq: 1
+("addition: 1
+subtraction: 1
+arithmetic").: 1
+both: 1
+texts: 2
+lost: 1
+original: 1
+time.: 1
+(however,: 1
+book: 1
+algebra: 1
+remains.)[16]
+
+in: 1
+early: 1
+12th: 1
+latin: 3
+translations: 1
+involving: 1
+hindu–arabic: 1
+numeral: 2
+arithmetic: 1
+appeared:: 1
+liber: 2
+alghoarismi: 2
+practica: 1
+arismetrice: 1
+(attributed: 2
+john: 1
+seville): 1
+algorismi: 3
+numero: 1
+indorum: 2
+adelard: 1
+bath).[17]: 1
+hereby,: 1
+latinization: 1
+al-khwarizmi': 1
+text: 2
+starts: 1
+phrase: 1
+dixit: 1
+("thus: 1
+spoke: 1
+al-khwarizmi").[18]
+
+in: 1
+1240,: 1
+alexander: 1
+villedieu: 1
+writes: 1
+titled: 1
+carmen: 1
+algorismo.: 1
+it: 2
+:
+
+haec: 1
+algorismus: 1
+ars: 1
+praesens: 1
+dicitur,: 1
+qua: 1
+/: 1
+talibus: 1
+fruimur: 1
+bis: 1
+quinque: 1
+figuris.
+
+: 1
+translates: 1
+:
+
+algorism: 1
+art: 6
+figures,: 1
+times: 1
+.
+
+the: 1
+poem: 1
+lines: 1
+long: 1
+summarizes: 1
+styled: 1
+dice: 1
+(tali: 1
+indorum),: 1
+hindu: 1
+numerals.[19]
+
+english: 1
+evolution: 1
+word
+around: 1
+1230,: 1
+english: 5
+word: 4
+algorism: 3
+attested: 2
+chaucer: 1
+1391.: 1
+french: 1
+term.[20][21]
+
+in: 1
+15th: 1
+influence: 1
+ἀριθμός: 1
+(arithmos,: 1
+"number";: 1
+cf.: 1
+"arithmetic"),: 1
+altered: 1
+algorithmus.
+
+in: 1
+1656,: 1
+dictionary: 2
+glossographia,: 1
+:[22]
+
+algorism: 1
+([latin]: 2
+algorismus): 1
+cyphers,: 1
+numbering: 1
+cyphers;: 1
+skill: 1
+accounting.
+
+augrime: 1
+algorithmus): 1
+skil: 1
+accounting: 1
+numbring.
+
+in: 1
+1658,: 1
+edition: 2
+new: 2
+world: 2
+words,: 2
+:[23]
+
+algorithme,: 1
+compounded: 1
+arabick: 1
+spanish,): 1
+reckoning: 2
+cyphers.
+
+in: 1
+1706,: 1
+sixth: 1
+:[24]
+
+algorithm,: 1
+computing: 2
+numbers,: 1
+principle: 1
+rules: 1
+arithmetick,: 1
+numeration,: 1
+addition,: 1
+subtraction,: 1
+multiplication: 1
+division;: 1
+extraction: 1
+roots:: 1
+': 1
+logistica: 1
+numeralis.
+
+algorism,: 1
+practical: 2
+operation: 1
+parts: 1
+specious: 1
+arithmetick: 2
+algebra;: 1
+practice: 1
+common: 1
+figures.
+
+in: 1
+1751,: 1
+young: 1
+algebraist': 1
+companion,: 1
+daniel: 1
+fenning: 1
+contrasts: 1
+:[25]
+
+algorithm: 1
+signifies: 2
+principles,: 1
+part,: 1
+knowing: 1
+practice.
+
+since: 1
+1811,: 1
+"step--step: 1
+procedure": 1
+english.[26][27]
+
+in: 1
+1842,: 1
+literature: 1
+art,: 1
+:
+
+algorithm,: 1
+reference: 1
+subject,: 1
+numbers;: 1
+differential: 1
+calculus.[28]
+
+machine: 1
+usage
+in: 1
+1928,: 1
+partial: 1
+formalization: 1
+modern: 1
+concept: 1
+began: 1
+attempts: 2
+entscheidungsproblem: 1
+(decision: 1
+problem): 1
+posed: 1
+david: 1
+hilbert.: 1
+later: 1
+formalizations: 2
+framed: 1
+define: 1
+"effective: 2
+calculability"[29]: 1
+method".[30]: 1
+those: 1
+included: 1
+gödel–herbrand–kleene: 1
+recursive: 1
+functions: 1
+1930,: 1
+1934: 1
+1935,: 1
+alonzo: 1
+church': 1
+lambda: 1
+calculus: 1
+1936,: 2
+emil: 1
+post': 1
+formulation: 1
+1: 1
+turing': 1
+1936–37: 1
+1939.
+
+: 1
